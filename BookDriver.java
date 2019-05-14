@@ -24,8 +24,8 @@ public class BookDriver{
         details.setNumOfPages(bookPages);
         details.setIsHardCover();
 
-    System.out.println("Your book detais are " + details.getAuthor() + details.getTitle() + details.getGenre());
-
+    //System.out.println("Your book detais are " + details.getAuthor() + details.getTitle() + details.getGenre());
+    System.out.println("Author\t " + "Title\t\n" + details.getAuthor() + "\t" + details.getTitle() );
 
 
     }
