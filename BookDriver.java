@@ -25,7 +25,7 @@ public class BookDriver{
         details.setIsHardCover();
 
     //System.out.println("Your book detais are " + details.getAuthor() + details.getTitle() + details.getGenre());
-    System.out.println("Author\t " + "Title\t\n" + "Genre\t" + details.getAuthor() + "\t" + details.getTitle() + "\t" + details.getGenre());
+    System.out.println("Author\t " + "Title\t" + "Genre\t\n" + details.getAuthor() + "\t" + details.getTitle() + "\t" + details.getGenre());
 
 
     }
