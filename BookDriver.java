@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BooksDriver{
+public class BookDriver{
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
